@@ -62,6 +62,13 @@
       "image": "https://www.ile-du-coeur.com/presentations/banniere.png",
       "genre": "RPG magie et fantasy",
       "id_thread": 12340
+    }, 
+    {
+      "name": "Pirate des Trois Océans", 
+      "url": "https://www.pd3o.fr",
+      "image": "https://i.ibb.co/tqGfp7V/presentation-pd3o-jeuweb.png", 
+      "genre": "Jeu de gestion et de stratégie",
+      "id_thread": 105604
     }
   ]
 }
